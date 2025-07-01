@@ -25,7 +25,7 @@
 
 
 ### 📊 Github Status 📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepang-pang&show_icons=true&theme=tokyonight&custom_title=Sechang's%20GitHub%20Stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohsutinn&show_icons=true&theme=tokyonight&custom_title=Sechang's%20GitHub%20Stats)
 </div>
 
 
